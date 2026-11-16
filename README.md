@@ -1,21 +1,18 @@
-# Ejercicios Prácticos en C
+# C Programming Exercises
 
-Este repositorio contiene una colección de ejercicios prácticos que he realizado para mejorar mi habilidad en el lenguaje de programación C. Estos ejercicios abarcan una variedad de temas fundamentales en C, desde estructuras básicas de control hasta conceptos más avanzados como punteros y gestión de memoria.
+Small programming exercises completed while studying C fundamentals.
 
-## Contenido
+The repository contains individual `.c` files covering input/output, conditions, loops, arithmetic, and introductory problem solving. Files are named in Spanish and are kept as coursework and practice.
 
-El repositorio está organizado en diferentes carpetas, cada una representando un tema específico en C. Dentro de cada carpeta, encontrarás ejercicios individuales, cada uno en su propio archivo de código fuente `.c`.
+## Run a program
 
-Ejemplos de temas incluidos:
-- Fundamentos de C
-- Estructuras de Control
-- Funciones
-- Arrays y Cadenas
-- Punteros
-- Estructuras de Datos
-- Manipulación de Archivos
+With a C compiler installed:
 
-## ¿Cómo usar este repositorio?
+~~~bash
+gcc "par o impar.c" -o exercise
+./exercise
+~~~
 
-Puedes clonar este repositorio para tener una copia local de los ejercicios:
+Replace the filename with the exercise you want to compile. Some programs may need corrections or compiler-specific adjustments; the repository is not presented as a tested library or production project.
 
+For larger projects, see [my GitHub profile](https://github.com/maxhrdz).
